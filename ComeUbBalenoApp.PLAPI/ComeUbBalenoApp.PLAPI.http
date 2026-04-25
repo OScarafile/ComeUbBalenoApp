@@ -1,0 +1,6 @@
+@ComeUbBalenoApp.PLAPI_HostAddress = http://localhost:5173
+
+GET {{ComeUbBalenoApp.PLAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ComeUbBalenoApp.BLL/ComeUbBalenoApp.BLL.csproj" />
+  <Project Path="ComeUbBalenoApp.DAL/ComeUbBalenoApp.DAL.csproj" />
+  <Project Path="ComeUbBalenoApp.PLAPI/ComeUbBalenoApp.PLAPI.csproj" />
+  <Project Path="ComeUbBalenoApp.Tests/ComeUbBalenoApp.Tests.csproj" />
+</Solution>
